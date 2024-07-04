@@ -56,9 +56,10 @@ python manage.py runserver
 ```
 
 # Clonar repositório
-git clone https://github.com/andersonrodrigues14/To-Do-List.git
-
 ```
+git clone https://github.com/andersonrodrigues14/To-Do-List.git
+```
+
 
 # Autor
 
